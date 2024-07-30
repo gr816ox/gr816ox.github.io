@@ -1,5 +1,8 @@
 ---
 layout: default
+title: About
+header : About
+group: navigation
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
